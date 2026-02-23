@@ -22,22 +22,12 @@ const Footer = () => {
           <div className="footer-section">
             <h4>Contact</h4>
             <p>Email: contact@foodshare.org</p>
-            <p>Phone: +1 234 567 8900</p>
+            <p>Phone: +91 12345 67890</p>
           </div>
 
-          <div className="footer-section">
-            <h4>Follow Us</h4>
-            <div className="social-links">
-              <a href="#" aria-label="Facebook">📘</a>
-              <a href="#" aria-label="Twitter">🐦</a>
-              <a href="#" aria-label="Instagram">📷</a>
-            </div>
-          </div>
+          
         </div>
 
-        <div className="footer-bottom">
-          <p>&copy; 2024 FoodShare. All rights reserved.</p>
-        </div>
       </div>
     </footer>
   );
