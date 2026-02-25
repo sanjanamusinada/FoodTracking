@@ -10,14 +10,6 @@ const Footer = () => {
             <p>Reducing food waste, feeding more lives</p>
           </div>
 
-          <div className="footer-section">
-            <h4>Quick Links</h4>
-            <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/Login">Login</a></li>
-              <li><a href="/Signup">Sign Up</a></li>
-            </ul>
-          </div>
 
           <div className="footer-section">
             <h4>Contact</h4>
